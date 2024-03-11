@@ -32,5 +32,13 @@ Before developing solutions and visualizing data related to the problem, I will 
 * The individual customer group is the group that brings in the main revenue for the company 51%, Enterprise 30% and Home Office 18%.
 * The total profit YoY and revenue YoY are both reported as positive with 52.35% and 51.55% respectively, which means that the company or investment portfolio has experienced significant growth in both its profitability and revenue over the past year compared to the previous year.
 
+**Market:** 
+* APAC (3.59 million, accounting for 28.36%), EU (2.94 million, accounting for 23.24%) and the US (2.3 million, accounting for 18.17%) are the 3 markets with the most revenue. The proportion between the three categories is evenly distributed in most markets, but Technology products still account for the largest proportion.
+The top 3 countries with the highest revenue and profits are the United States, China and India, respectively. "
+
+**Product:**
+* Top 1 product that has the highest profit is Canon ImageCLASS 2200 Advanced Copier, especially since this product is created only in the USA in the top 10 countries by profit and revenue.
+* Top 5 sub-categories brought the biggest revenue: Phones (1.7M), Copiers (1.5M), Chairs (1.5M), Bookcases (1.4M), and Storage (1.2M)
+
 
 
