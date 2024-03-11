@@ -44,6 +44,7 @@ The top 3 countries with the highest revenue and profits are the United States, 
 Continue to consider expanding into the APAC, EU, and US markets:
 *  In the APAC market, focus on China and India, which bring in high revenue. Concentrate on industries such as Technology and Furniture.
 *  In the EU market, focus on the United Kingdom and Germany and industries such as Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here.
+
 The company should strongly promote sales and marketing strategies on potential products such as phones, photocopiers, bookcases, chairs, and accessories. These are potential products in the top 10 products that bring high revenue to the company
 
 
