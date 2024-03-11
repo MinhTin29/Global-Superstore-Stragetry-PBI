@@ -1,1 +1,1 @@
-# Global-Superstore-Stragetry-PBI
+# Global-Superstore-Strategy-PBI
