@@ -4,6 +4,8 @@
 Dataset stores sales information of some products of a company worldwide
 Includes 3 data tables:(The detailed file with the name _"1. Superstore_Sales_Dataset xlxs" _can be downloaded from the above location)
 
+* danh sách
+
 ___ Orders: fact order
 ***People: information of salesperson
 *** Returns: information on returned orders
