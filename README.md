@@ -34,11 +34,17 @@ Before developing solutions and visualizing data related to the problem, I will 
 
 **Market:** 
 * APAC (3.59 million, accounting for 28.36%), EU (2.94 million, accounting for 23.24%) and the US (2.3 million, accounting for 18.17%) are the 3 markets with the most revenue. The proportion between the three categories is evenly distributed in most markets, but Technology products still account for the largest proportion.
-The top 3 countries with the highest revenue and profits are the United States, China and India, respectively. "
+The top 3 countries with the highest revenue and profits are the United States, China and India, respectively. 
 
 **Product:**
 * Top 1 product that has the highest profit is Canon ImageCLASS 2200 Advanced Copier, especially since this product is created only in the USA in the top 10 countries by profit and revenue.
 * Top 5 sub-categories brought the biggest revenue: Phones (1.7M), Copiers (1.5M), Chairs (1.5M), Bookcases (1.4M), and Storage (1.2M)
+
+### 2. Recommodation
+Continue to consider expanding into the APAC, EU, and US markets:
+*  In the APAC market, focus on China and India, which bring in high revenue. Concentrate on industries such as Technology and Furniture.
+*  In the EU market, focus on the United Kingdom and Germany and industries such as Technology and Office Supplies. Unlike APAC, the Furniture industry does not generate much revenue here.
+The company should strongly promote sales and marketing strategies on potential products such as phones, photocopiers, bookcases, chairs, and accessories. These are potential products in the top 10 products that bring high revenue to the company
 
 
 
